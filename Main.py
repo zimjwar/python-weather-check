@@ -31,7 +31,7 @@ def main():
         print("\nOptions:")
         print("1. Check Weather")
         print("2. View Search History")
-        print("3. Clear Search History.")
+        print("3. Clear Search History")
         print("4. Exit")
         
         # Get the user's choice
