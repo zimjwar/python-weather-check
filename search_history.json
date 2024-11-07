@@ -1,0 +1,9 @@
+[
+  "london (metric): Temperature: 10.41\u00b0\nDescription: haze\nHumidity: 91%",
+  "johannesburg (metric): Temperature: 29.77\u00b0\nDescription: few clouds\nHumidity: 30%",
+  "durban (standard): Temperature: 293.43\u00b0\nDescription: broken clouds\nHumidity: 62%",
+  "s (metric): Error: Missing key 'main' in the weather data. Please check the API response.",
+  "1 (imperial): Error: Missing key 'main' in the weather data. Please check the API response.",
+  "johannesburg (imperial): Temperature: 60.94\u00b0\nDescription: broken clouds\nHumidity: 86%",
+  "johannesburg (standard): Temperature: 289.23\u00b0\nDescription: broken clouds\nHumidity: 86%"
+]
